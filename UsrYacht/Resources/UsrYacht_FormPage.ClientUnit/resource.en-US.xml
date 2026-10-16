@@ -4,7 +4,9 @@
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
 			<Item Name="LocalizableStrings.addRecord_0sdoxih_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_96d3dhj_caption.Value" Value="Додати новий" />
 			<Item Name="LocalizableStrings.addRecord_j4nhwrk_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_tun00qa_caption.Value" Value="Додати новий" />
 			<Item Name="LocalizableStrings.addRecord_vmtv6xc_caption.Value" Value="Додати новий" />
 			<Item Name="LocalizableStrings.addRecord_ysj0k5s_caption.Value" Value="Додати новий" />
 		</Items>

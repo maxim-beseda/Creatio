@@ -8,11 +8,15 @@
         },
         {
           "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1791973332052+0300)\/"
+          "Value": "\/Date(1792063437715+0300)\/"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
           "Value": "\/Date(1791973332052+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "faee5f3c-8e4e-0b1f-b69c-be27a07256d2",
+          "Value": "#0000EE"
         }
       ]
     },
@@ -24,11 +28,15 @@
         },
         {
           "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1791973320182+0300)\/"
+          "Value": "\/Date(1792063431229+0300)\/"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
           "Value": "\/Date(1791973320182+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "faee5f3c-8e4e-0b1f-b69c-be27a07256d2",
+          "Value": "#FF0000"
         }
       ]
     },
@@ -40,11 +48,15 @@
         },
         {
           "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1791973303193+0300)\/"
+          "Value": "\/Date(1792063401200+0300)\/"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
           "Value": "\/Date(1791973303193+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "faee5f3c-8e4e-0b1f-b69c-be27a07256d2",
+          "Value": "#147A17"
         }
       ]
     }

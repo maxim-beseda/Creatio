@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.a9d82dc4-fab0-49ef-2233-85b7484946e1.Caption" Value="Приховати елементи: Comment" />
+			<Item Name="Caption" Value="Yacht form page (Бізнес правила)" />
+		</Items>
+	</Group>
+</Resources>

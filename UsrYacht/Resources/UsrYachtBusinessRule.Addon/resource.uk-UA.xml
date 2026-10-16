@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.b855ccbb-48f6-9033-4469-e6e383fbf3ea.Caption" Value="Застосувати фільтр: City" />
+			<Item Name="AddonConfig.Rules.c113aecf-aa2d-94db-6ece-ddc836b4a8af.Caption" Value="ChildRule-b855ccbb-48f6-9033-4469-e6e383fbf3ea-PopulateValue" />
+			<Item Name="AddonConfig.Rules.d4ed3eba-484c-73cf-6101-7dc7333f5481.Caption" Value="ChildRule-b855ccbb-48f6-9033-4469-e6e383fbf3ea-ClearValue" />
+			<Item Name="AddonConfig.Rules.efc068f9-71c5-22b7-6d44-e6448a3e0ca9.Caption" Value="Встановити значення: Manager" />
+			<Item Name="Caption" Value="Yacht (Бізнес правила)" />
+		</Items>
+	</Group>
+</Resources>

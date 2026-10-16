@@ -104,10 +104,6 @@
   "S4": "f72134f7-7150-4eb9-9da2-7efe70ad06ab",
   "E6": true,
   "E20": true,
-  "E12": {
-    "FB1": 1,
-    "FB2": "dc45bb1d-5019-43a8-9e9a-7cfb387384ac"
-  },
   "E17": "UsrDriveTypeId",
   "E18": "UsrDriveTypeName"
 }
@@ -120,10 +116,6 @@
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
   "E6": true,
-  "E12": {
-    "FB1": 3,
-    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
-  },
   "E17": "UsrManagerId",
   "E18": "UsrManagerName"
 }
@@ -150,6 +142,30 @@
     "FB5": 3
   }
 }
++ MetaData.Schema.D2 {
+  "UId": "31f7ddfc-3d04-da40-509b-ce32c2089873",
+  "A2": "UsrCity",
+  "A3": "c837f628-689a-4165-8a7a-85b3f11c3f59",
+  "A4": "c837f628-689a-4165-8a7a-85b3f11c3f59",
+  "A5": "0359aae9-0d88-4c1a-86a8-179c9d7be6f3",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "5ca90b6a-93e7-4448-befe-ab5166ec2cfe",
+  "E6": true,
+  "E17": "UsrCityId",
+  "E18": "UsrCityName"
+}
++ MetaData.Schema.D2 {
+  "UId": "0942a1bb-96f5-20ea-bf26-29e711333516",
+  "A2": "UsrCountry",
+  "A3": "c837f628-689a-4165-8a7a-85b3f11c3f59",
+  "A4": "c837f628-689a-4165-8a7a-85b3f11c3f59",
+  "A5": "0359aae9-0d88-4c1a-86a8-179c9d7be6f3",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "09fce1f8-515c-4296-95cd-8cd93f79a6cf",
+  "E6": true,
+  "E17": "UsrCountryId",
+  "E18": "UsrCountryName"
+}
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
   "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -167,7 +183,9 @@
   "a093359b-8c3f-dd9f-3b09-42807cb12755",
   "328381d5-bd29-8ce0-7052-93c61873d264",
   "f7a51f94-f683-42e1-e468-091372c5d520",
-  "f24e5815-f235-1b02-6d11-20535750378b"
+  "f24e5815-f235-1b02-6d11-20535750378b",
+  "31f7ddfc-3d04-da40-509b-ce32c2089873",
+  "0942a1bb-96f5-20ea-bf26-29e711333516"
 ]
 = MetaData.Schema.D20.A2 "UsrYachtEvents"
 + MetaData.Schema.D20.FA1 false
