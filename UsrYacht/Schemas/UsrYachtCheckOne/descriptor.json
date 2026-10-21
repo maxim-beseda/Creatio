@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "817a69f9-e73c-4ea4-b5a9-18abd4516726",
+    "Name": "UsrYachtCheckOne",
+    "ModifiedOnUtc": "\/Date(1792399198000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": " Yacht: перевірити одну яхту",
+    "DependsOn": []
+  }
+}

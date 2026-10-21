@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7da8106f-905c-4823-8e7d-43e0d31979f1",
+    "Name": "UsrYachtRentalTotalPrice",
+    "ModifiedOnUtc": "\/Date(1792401221000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht Rental Вартість оренди",
+    "DependsOn": []
+  }
+}

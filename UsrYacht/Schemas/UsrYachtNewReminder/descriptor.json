@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9040dfb5-8162-4590-a35d-f1cdc01697bb",
+    "Name": "UsrYachtNewReminder",
+    "ModifiedOnUtc": "\/Date(1792328382000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht: нагадування для нової яхти",
+    "DependsOn": []
+  }
+}

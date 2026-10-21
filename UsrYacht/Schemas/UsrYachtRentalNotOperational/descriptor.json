@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "12bdce45-0e3e-49b0-9f17-13272a1e2094",
+    "Name": "UsrYachtRentalNotOperational",
+    "ModifiedOnUtc": "\/Date(1792403213000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht Оренда яхти, яка не в роботі",
+    "DependsOn": []
+  }
+}

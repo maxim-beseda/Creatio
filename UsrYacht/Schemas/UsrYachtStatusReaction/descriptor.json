@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "39de838c-59ac-46e8-a306-4f378fc83733",
+    "Name": "UsrYachtStatusReaction",
+    "ModifiedOnUtc": "\/Date(1792340079000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht: реакція на статус",
+    "DependsOn": []
+  }
+}

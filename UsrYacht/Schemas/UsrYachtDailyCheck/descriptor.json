@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "26abb3f9-d75a-4bb6-b92e-3b98e3c903a5",
+    "Name": "UsrYachtDailyCheck",
+    "ModifiedOnUtc": "\/Date(1792399660000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht: щоденна перевірка",
+    "DependsOn": []
+  }
+}

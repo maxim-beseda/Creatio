@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ActivityUserTask1.Caption" Value="Організувати ремонт яхти" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.Caption" Value="Категорія" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.DisplayValue" Value="Виконати" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityPriority.Caption" Value="Пріоритет" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityResult.Caption" Value="Результат активності" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Application.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Case.Caption" Value="Звернення" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Change.Caption" Value="Зміна" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contract.Caption" Value="Договір" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачі" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.Caption" Value="Тривалість" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.DisplayValue" Value="1" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.Caption" Value="Тривалість (період)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.DisplayValue" Value="днів" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ExecutionContext.Caption" Value="Контекст виконання" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.FinApplication.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Incident.Caption" Value="Інцидент" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.InformationOnStep.Caption" Value="Інформація по кроку" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Invoice.Caption" Value="Рахунок" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активність завершено" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="хибність" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Lead.Caption" Value="Лід" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Listing.Caption" Value="Лістинги" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.Caption" Value="Продаж" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Order.Caption" Value="Замовлення" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.Caption" Value="Відповідальний" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системна змінна.Контакт поточного користувача#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Property.Caption" Value="Об'єкт нерухомості" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.QueueItem.Caption" Value="Елемент черги" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Caption" Value="Рекомендація" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.DisplayValue" Value="&quot;Організувати ремонт яхти &quot; + [#Прочитати яхту.Перший елемент результуючої колекції.Назва#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Release.Caption" Value="Реліз" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.Caption" Value="За скільки часу  нагадувати відповідальному" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За скільки часу нагадувати відповідальному (період)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показувати сторінку виконання автоматично" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.Caption" Value="Відображати в розкладі" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.Caption" Value="Через скільки часу почати виконання" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.Caption" Value="Через скільки почати виконання (період)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.Caption" Value="Категорія" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.DisplayValue" Value="Виконати" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityPriority.Caption" Value="Пріоритет" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityResult.Caption" Value="Результат активності" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Application.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Case.Caption" Value="Звернення" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Change.Caption" Value="Зміна" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contract.Caption" Value="Договір" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.CurrentActivityId.Caption" Value="Id задачі" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.Caption" Value="Тривалість" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.DisplayValue" Value="1" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.Caption" Value="Тривалість (період)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.DisplayValue" Value="днів" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ExecutionContext.Caption" Value="Контекст виконання" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.FinApplication.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Incident.Caption" Value="Інцидент" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.InformationOnStep.Caption" Value="Інформація по кроку" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Invoice.Caption" Value="Рахунок" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.Caption" Value="Активність завершено" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.DisplayValue" Value="хибність" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Lead.Caption" Value="Лід" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Listing.Caption" Value="Лістинги" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.Caption" Value="Продаж" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Order.Caption" Value="Замовлення" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.Caption" Value="Відповідальний" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.DisplayValue" Value="[#Системна змінна.Контакт поточного користувача#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Property.Caption" Value="Об'єкт нерухомості" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.QueueItem.Caption" Value="Елемент черги" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Caption" Value="Рекомендація" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.DisplayValue" Value="&quot;Яхта на ремонті вже 7 днів: &quot; + [#перечитати яхту.Перший елемент результуючої колекції.Назва#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Release.Caption" Value="Реліз" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.Caption" Value="За скільки часу  нагадувати відповідальному" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.Caption" Value="За скільки часу нагадувати відповідальному (період)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.Caption" Value="Показувати сторінку виконання автоматично" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.Caption" Value="Відображати в розкладі" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.Caption" Value="Через скільки часу почати виконання" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.Caption" Value="Через скільки почати виконання (період)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Caption" Value="Причина списання" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ActivityPriority.Caption" Value="Пріоритет" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ActivityResult.Caption" Value="Результат активності" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Buttons.Caption" Value="Кнопки" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Buttons.DisplayValue" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;6f12b2c2-ba8b-4c49-8a02-6357f634540f&quot;,&quot;isEnabled&quot;:true,&quot;performValidation&quot;:true,&quot;caption&quot;:&quot;Продовжити&quot;,&quot;name&quot;:&quot;Button1&quot;,&quot;style&quot;:&quot;green&quot;,&quot;generateSignal&quot;:&quot;&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Buttons.Value" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;6f12b2c2-ba8b-4c49-8a02-6357f634540f&quot;,&quot;isEnabled&quot;:true,&quot;performValidation&quot;:true,&quot;caption&quot;:&quot;Продовжити&quot;,&quot;name&quot;:&quot;Button1&quot;,&quot;style&quot;:&quot;green&quot;,&quot;generateSignal&quot;:&quot;&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.CreateActivity.Caption" Value="Створити активність" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="false" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачі" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Duration.Caption" Value="Тривалість" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.DurationPeriod.Caption" Value="Тривалість (період)" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Elements.Caption" Value="Елементи" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Elements.DisplayValue" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;97bccc63-f6a1-4921-a773-632968007f79&quot;,&quot;controlEditType&quot;:&quot;1&quot;,&quot;caption&quot;:&quot;Причина&quot;,&quot;name&quot;:&quot;PageItem1&quot;,&quot;text&quot;:&quot;&quot;,&quot;isMultiline&quot;:false,&quot;isRequired&quot;:true,&quot;canBeMinimized&quot;:true,&quot;minimized&quot;:false,&quot;dataSource&quot;:null,&quot;dataFilter&quot;:&quot;&quot;,&quot;controlDataValueType&quot;:&quot;10&quot;,&quot;dateTimeFormat&quot;:&quot;7&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Elements.Value" Value="{&quot;$type&quot;:&quot;System.Collections.Generic.List`1[[System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib]], mscorlib&quot;,&quot;$values&quot;:[{&quot;$type&quot;:&quot;System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib&quot;,&quot;Id&quot;:&quot;97bccc63-f6a1-4921-a773-632968007f79&quot;,&quot;controlEditType&quot;:&quot;1&quot;,&quot;caption&quot;:&quot;Причина&quot;,&quot;name&quot;:&quot;PageItem1&quot;,&quot;text&quot;:&quot;&quot;,&quot;isMultiline&quot;:false,&quot;isRequired&quot;:true,&quot;canBeMinimized&quot;:true,&quot;minimized&quot;:false,&quot;dataSource&quot;:null,&quot;dataFilter&quot;:&quot;&quot;,&quot;controlDataValueType&quot;:&quot;10&quot;,&quot;dateTimeFormat&quot;:&quot;7&quot;}]}" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntityId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntityId.DisplayValue" Value="[#StartSignal1.Унікальний ідентифікатор запису#]" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="Схема об'єкта" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="Yacht" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.EntryPointId.Caption" Value="Точка входу" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ExtendedClientModule.Caption" Value="Розширює клієнтський модуль" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.InformationOnStep.Caption" Value="Інформація по кроку" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активність завершено" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="хибність" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.IsRunning.Caption" Value="Виконується" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.OmniChat.Caption" Value="Чат" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.OwnerId.Caption" Value="Відповідальний" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Системна змінна.Контакт поточного користувача#]" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.PageItem1.Caption" Value="Причина" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.PressedButtonCode.Caption" Value="Код натиснутої кнопки" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Recommendation.Caption" Value="Рекомендація" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBefore.Caption" Value="За скільки часу  нагадувати відповідальному" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За скільки нагадувати відповідальному (період)" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показувати сторінку виконання автоматично" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Відображати у розкладі" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="хибність" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartIn.Caption" Value="Через скільки часу почати виконання" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartInPeriod.Caption" Value="За скільки почати виконання (період)" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Title.Caption" Value="Заголовок" />
+			<Item Name="BaseElements.AutoGeneratedPageUserTask1.Parameters.Title.DisplayValue" Value="&quot;Причина списання &quot; + [#Прочитати яхту.Перший елемент результуючої колекції.Назва#]" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.Caption" Value="Продовжувати виконання при наявності помилок" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Якщо об'єкт відповідає умовам" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значення полів" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Value.2a46fe18-4367-4a11-a1c6-8a0c0f9b3ee0.displayValue" Value="Яхта на ремонті" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Value.2a46fe18-4367-4a11-a1c6-8a0c0f9b3ee0.value" Value="Яхта на ремонті" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IgnoreErrors.Caption" Value="Продовжувати виконання при наявності помилок" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IgnoreErrors.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.Caption" Value="Якщо об'єкт відповідає умовам" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.RecordColumnValues.Caption" Value="Значення полів" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Умовний потік 1" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Умовний потік 2" />
+			<Item Name="BaseElements.ConditionalSequenceFlow5.Caption" Value="Умовний потік 5" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Умовний потік 4" />
+			<Item Name="BaseElements.DefaultSequenceFlow2.Caption" Value="Умовний потік 6" />
+			<Item Name="BaseElements.ExclusiveGateway1.Caption" Value="Статус яхти" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Caption" Value="таймер" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.Caption" Value="Стартувати через (сек.)" />
+			<Item Name="BaseElements.IntermediateCatchTimer1.Parameters.StartOffset.DisplayValue" Value="120" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Прочитати яхту" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перелік колонок для читання" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Кількість записів для читання" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Дробове число)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="перечитати яхту" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Читання непідтверджених даних" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Перелік колонок для читання" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Кількість записів для читання" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції (Дата/Час)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Результат функції (Дробове число)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Результат функції (Ціле)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Унікальний ідентифікатор запису" />
+			<Item Name="Caption" Value="Yacht: реакція на статус" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок екземпляру процесу" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Назва процесу#]" />
+		</Items>
+	</Group>
+</Resources>

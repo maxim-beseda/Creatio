@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht Rental модальна сторінка" />
+			<Item Name="LocalizableStrings.addRecord_o08fdqi_caption.Value" Value="Додати новий" />
+		</Items>
+	</Group>
+</Resources>

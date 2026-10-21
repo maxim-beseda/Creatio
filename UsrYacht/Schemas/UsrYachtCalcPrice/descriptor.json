@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc7c1d7c-764d-4f78-9711-fca9942e7d27",
+    "Name": "UsrYachtCalcPrice",
+    "ModifiedOnUtc": "\/Date(1792329284000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht: розрахунок ціни",
+    "DependsOn": []
+  }
+}

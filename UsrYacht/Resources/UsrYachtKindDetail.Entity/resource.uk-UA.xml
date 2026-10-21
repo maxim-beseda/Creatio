@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht Kind Detail" />
+			<Item Name="Columns.UsrParentYacht.Caption" Value="Parent Yacht" />
+			<Item Name="Columns.UsrYachtKind.Caption" Value="Yacht Kind" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бізнес-процес" />
+		</Items>
+	</Group>
+</Resources>
